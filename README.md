@@ -9,3 +9,5 @@ curl --request GET \
   --header "Content-Type: application/json" \
   --header "Authorization: Bearer {对应域名ddnstoken}"
   ```
+### 使用方式
+脚本复制到 RouterOS -ipv6 -dhcp client -Advanced -script
