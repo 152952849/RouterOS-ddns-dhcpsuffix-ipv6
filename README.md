@@ -1,7 +1,5 @@
-# RouterOS-ddns-dhcpsuffix-ipv6
+# RouterOS IPv6-DHCP Client脚本
 ## RouterOS脚本- Cloudflare DDNS + 防火墙地址列表 + PushPlus 通知 - 多设备前缀+固定后缀模式（仅在IP变化时推送）
-### RouterOS IPv6-DHCP Client脚本
-### Cloudflare DDNS + 防火墙地址列表 + PushPlus 通知 - 多设备前缀+固定后缀模式-数组（仅在IP变化时推送）
 ### 采用前缀+固定后缀模式避免邻居发现ip更新不及时 部分设备随机mac(如win)要更改固定
 
 #### cloudflare获取Record ID
